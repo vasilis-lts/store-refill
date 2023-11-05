@@ -86,9 +86,11 @@ export default function RefillScreen() {
               <img src="/empty.jpg" alt="1" />
             </div>
           </StyledProductsContainer>
+          <Typography variant="subtitle1">How to use!</Typography>
           <Typography variant="subtitle2">
-            Step1: Select 1 or more lockers <br />
-            Step2: Click on a product to put it in the selected lockers! <br />
+            <b>Step1:</b> Select 1 or more lockers <br />
+            <b>Step2:</b> Click on a product to put it in the selected lockers!{" "}
+            <br />
             Click on empty to empty the selected lockers!
           </Typography>
         </Box>
@@ -100,8 +102,9 @@ export default function RefillScreen() {
             This is a small app that shows a UI that monitors a modern store, in
             which products are filled into lockers by an employee. <br />
             <br />
-            The employee can modify the state of each locker in the app while
-            changing the products in the lockers in the real world. <br />
+            The employee can modify the state of each locker in the app (using a
+            tablet perhaps) while changing the products in the lockers in the
+            real world. <br />
             <br />
             An admin (store owner or support) can monitor the state of the store
             24/7. In later versions more features can be added like analytics,
