@@ -99,14 +99,14 @@ export default function RefillScreen() {
             What is this?
           </Typography>
           <Typography align="justify" paragraph>
-            This is a small app that shows a UI that monitors a modern store, in
-            which products are filled into lockers by an employee that also
+            This is a small app, that shows a UI that monitors a modern store,
+            in which products are filled into lockers by an employee, that also
             delivers the products from the farm to the store. <br />
             The employee can modify the state of each locker in the app (using a
             tablet perhaps) while changing the products in the lockers in the
             real world. <br />
             An admin (store owner or support) can monitor the state of the store
-            24/7, so there is no need for an in store employee (Self checkout is
+            24/7, so there is no need for an in-store employee (σelf checkout is
             added). <br />
             In later versions more features can be added like analytics,
             save/load store setups etc
