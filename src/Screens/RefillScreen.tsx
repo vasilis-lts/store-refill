@@ -106,7 +106,7 @@ export default function RefillScreen() {
             tablet perhaps) while changing the products in the lockers in the
             real world. <br />
             An admin (store owner or support) can monitor the state of the store
-            24/7, so there is no need for an in-store employee (σelf checkout is
+            24/7, so there is no need for an in-store employee (self checkout is
             added). <br />
             In later versions more features can be added like analytics,
             save/load store setups etc
