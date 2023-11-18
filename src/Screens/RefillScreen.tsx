@@ -108,8 +108,8 @@ export default function RefillScreen() {
             An admin (store owner or support) can monitor the state of the store
             24/7, so there is no need for an in-store employee (self checkout is
             added). <br />
-            In later versions more features can be added like analytics,
-            save/load store setups etc
+            In later versions more features can be added like additional locker
+            selection functionality, saved locker setups etc
           </Typography>
         </Box>
       </Stack>
